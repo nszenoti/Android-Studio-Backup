@@ -1,0 +1,12 @@
+<templateSet group="Flutter Terminal">
+  <template name="ftrunx" value="flutter run --no-sound-null-safety" description="Flutter Terminal Run Not Null Safe" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ftbuildwebx" value="flutter build web --no-sound-null-safety" description="Flutter build web no sound null safety" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

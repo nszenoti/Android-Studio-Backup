@@ -1,0 +1,5 @@
+<application>
+  <component name="git-commit-message-template">
+    <option name="suffix" value=":" />
+  </component>
+</application>

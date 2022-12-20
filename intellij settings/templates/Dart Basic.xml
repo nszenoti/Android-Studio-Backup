@@ -1,0 +1,9 @@
+<templateSet group="Dart Basic">
+  <template name="clsi" value="class $ClassName${&#10;}" description="Class Name same as File" toReformat="false" toShortenFQNames="true">
+    <variable name="ClassName" expression="" defaultValue="Name" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+</templateSet>
