@@ -1,0 +1,29 @@
+Dart
+HighlightBracketPair
+Key Promoter X
+String Manipulation
+andrasferenczi.dart-data-plugin
+cn.neday.excavator
+com.ankit.mahadik.json.dart.class
+com.bloc.intellij_generator_plugin
+com.chrisrm.idea.MaterialThemeUI
+com.crzsc.FlutterAssetsGenerator
+com.developerphil.adbidea
+com.gionchat
+com.github.fawaz.flutter-freezed-snippets
+com.github.typ0520.jsontodart
+com.godwin.json.parser
+com.herbert.george.flutter-snippets
+com.hiberbee.intellij.hiberbee-theme
+com.intellij.marketplace
+com.localizely.flutter-intl
+com.mallowigi
+com.markskelton.one-dark-theme
+com.tao.bloc
+com.tao.provider
+github.cweijan.test-theme
+io.flutter
+io.sympli.idea.plugin
+org.tbm98.flutter-riverpod-snippets
+wu.seal.tool.jsontokotlin
+zielu.gittoolbox
